@@ -10,6 +10,8 @@ ha_domain: xiaomi_miio
 
 The `xiaomi_miio` fan platform allows you to control the Xiaomi Air Purifier, Air Humidifier and Air Fresh.
 
+It seems, that since Air Purifier V3 miIO API is replaced with miOT. Check [https://github.com/rytilahti/python-miio/issues/543](issue).
+
 Supported devices:
 
 | Name                | Model                  | Model no. |
