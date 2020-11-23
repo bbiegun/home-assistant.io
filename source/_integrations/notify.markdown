@@ -15,6 +15,8 @@ The `notify` integration makes it possible to send notifications to a wide varie
 
 If you want to send notifications to the Home Assistant web interface, you may use the [Persistent Notification integration](/integrations/persistent_notification/).
 
+Notification are bing delivered via [Firebase](https://companion.home-assistant.io/docs/notifications/notification-details).
+
 ## Service
 
 Once loaded, the `notify` platform will expose a service that can be called to send notifications.
